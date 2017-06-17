@@ -1,0 +1,29 @@
+{
+  "name": "nodeprj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^4.0.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naitsric/nodeprj.git"
+  },
+  "author": "naitsric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naitsric/nodeprj/issues"
+  },
+  "homepage": "https://github.com/naitsric/nodeprj#readme"
+}
