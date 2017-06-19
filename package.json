@@ -8,10 +8,17 @@
     "test": "test"
   },
   "dependencies": {
-    "chai": "^4.0.2"
+    "babel-register": "^6.24.1",
+    "chai": "^4.0.2",
+    "express": "^4.15.3",
+    "jimp": "^0.2.28"
   },
   "devDependencies": {
-    "mocha": "^3.4.2"
+    "babel-cli": "^6.24.1",
+    "gm": "^1.23.0",
+    "mocha": "^3.4.2",
+    "node-wget": "^0.4.2",
+    "nodemon": "^1.11.0"
   },
   "scripts": {
     "test": "mocha"
