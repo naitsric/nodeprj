@@ -1,3 +1,6 @@
+## Use
+1. node index.js
+
 ## Prerequisites
 
 1. brew install imagemagick
